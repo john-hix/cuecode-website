@@ -1,0 +1,16 @@
+---
+title: Home
+---
+---
+
+
+##Team Members:
+- ANDREW BAUSAS
+- FREDDIE BOATENG
+- KOBE FRANSSEN
+- BRYAN HAWICKHORST
+- JOHN HICKS
+- DIYA PATEL
+- CHASE WALLACE
+
+---
