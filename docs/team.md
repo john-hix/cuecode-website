@@ -1,5 +1,6 @@
 ---
 title: Team
+icon: material/account-group
 ---
 ---
 
