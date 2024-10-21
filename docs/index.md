@@ -11,7 +11,9 @@ Please see our "Presentations" section for an overview of the problem, solution,
 and major functional componenets of the CueCode system.
 
 The presentation will explain further the simple problem/solution statement below.
-
+  
+---
+  
 ## Problem
 
 End-users need to enter data and trigger actions in systems via Web APIs, using
@@ -19,7 +21,9 @@ only natural lanaguage.
 
 There's not an abstracted framework for developers
 to create those features using existing LLM technology.
-
+  
+---
+  
 ## Solution
 
 CueCode makes it easy to turn natural language into Web API calls.
