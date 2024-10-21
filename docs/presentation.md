@@ -30,7 +30,7 @@ icon: material/presentation-play
   
 ---
   
-##Feasibility Final (V4)
+##Feasibility V4 (Final)
 > :bulb: work in progress until Oct 24
 <html markdown>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRf_mMhDVdSZ9inK6FKSTjyiGiPLGKbWQ4K_B4FQZzPLsceShlqBa6_Su6CUPK8ZAQmRA_E8TCw-pb2/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
