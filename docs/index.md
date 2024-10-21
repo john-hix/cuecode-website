@@ -30,8 +30,9 @@ CueCode makes it easy to turn natural language into Web API calls.
 Developers may leverage this capability in a number of ways, many of which
 reduce the business risk of other available options for using LLMs to
 generate Web API calls.
-<hr>
-Please see the presentation slide decks for more information.
+
+
+> :bulb: Please see the presentation slide decks for more information.
 Thank you for your time!
 
 ---
