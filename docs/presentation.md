@@ -4,6 +4,9 @@ icon: material/presentation-play
 ---
 ---
 
+To advance slides, click directly on the embedded slides. The left/right arrows
+do not work as well at the moment.
+
 ##Feasability V1
 
 <html markdown>
