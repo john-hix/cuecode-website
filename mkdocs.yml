@@ -1,7 +1,8 @@
 site_name: Team RED | CueCode
 site_url: https://john-hix.github.io/cuecode-website/
 theme:
-  name: material
+  icon: 
+    logo: fontawesome-solid-c
 #logo: img/
 #favicon: img/
   palette:
@@ -44,6 +45,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+
 
 
 
