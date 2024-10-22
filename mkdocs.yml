@@ -2,7 +2,7 @@ site_name: Team RED | CueCode
 site_url: https://john-hix.github.io/cuecode-website/
 theme:
   icon: 
-    logo: fontawesome-solid-c
+    logo: assets/Cuecode.png
 #logo: img/
 #favicon: img/
   palette:
