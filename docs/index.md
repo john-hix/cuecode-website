@@ -7,6 +7,7 @@ title: Home
 <div class="grid cards" markdown>
 - :material-account-group: __[The Team](./team.md)__  
 - :material-presentation-play: __[Presentations](./presentation.md)__
+- :material-book: __[References](./references.md)__
 </div>
 
 Please see our "Presentations" section for an overview of the problem, solution,
