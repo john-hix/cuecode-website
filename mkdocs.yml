@@ -2,8 +2,8 @@ site_name: Team RED | CueCode
 site_url: https://john-hix.github.io/cuecode-website/
 theme:
   name: material
-  logo: assets/Cuecode.png
-  favicon: assets/Cuecode.png
+  logo: img/cuecode-logo.png
+  favicon: img/cuecode-logo.png
 #favicon: img/
   palette:
     #DARK AND LIGHT THEME

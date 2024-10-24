@@ -2,6 +2,8 @@
 title: Home
 ---
 ---
+
+![CueCode](img/cuecode-logo.png)
 <div class="grid cards" markdown>
 - :material-account-group: __[The Team](./team.md)__  
 - :material-presentation-play: __[Presentations](./presentation.md)__
