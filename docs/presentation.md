@@ -23,7 +23,7 @@ weeks.
 
 ###Feasibility Presentation V4
 <html markdown>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRf_mMhDVdSZ9inK6FKSTjyiGiPLGKbWQ4K_B4FQZzPLsceShlqBa6_Su6CUPK8ZAQmRA_E8TCw-pb2/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="/cuecode-website/pdf/CueCode_Feasibility_4.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </html>
   
 --- 
@@ -31,21 +31,21 @@ weeks.
 ###Feasability Presentation V3
   
 <html markdown>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQC9Yka0iw8GI_uF8YIHaUsgu_w9xcAzdYGbmWcGka-z7-RDiud5Os3wK0KPCj1eqdV-xQvDrC3URB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="/cuecode-website/pdf/CueCode_Feasibility_3.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </html>
   
 ---
 ###Feasability Presentation V2
 
 <html markdown>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQIXlBjMno9nqxHaXoNIClSaviZctsIuhnMd7T9dUmuPfIWKfeytngeu1QWAx2h5vgh9LiflhG1fyi/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="/cuecode-website/pdf/CueCode_Feasibility_2.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </html>
   
 ---
 ###Feasability Presentation V1
 
 <html markdown>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTND6lOAWzXteetUZDJzyxeEFMAvpb9-NW3UCBnQT5eD7vPR5DWOtI5tpNZfPo_4DnYZ26XEGnFf_iY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="/cuecode-website/pdf/CueCode_Feasibility_1.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </html>
 
 ---
