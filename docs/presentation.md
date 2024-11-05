@@ -17,12 +17,12 @@ weeks.
 
 ###Feasibility Presentation Final
 <html markdown>
-<iframe src="/cuecode-website/pdf/CueCode_Feasibility_Final.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="pdf/CueCode_Feasibility_Final.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </html>
 
 ###Feasibility Presentation V4
 <html markdown>
-<iframe src="/cuecode-website/pdf/CueCode_Feasibility_4.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="pdf/CueCode_Feasibility_4.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </html>
   
 --- 
@@ -30,21 +30,21 @@ weeks.
 ###Feasability Presentation V3
   
 <html markdown>
-<iframe src="/cuecode-website/pdf/CueCode_Feasibility_3.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="pdf/CueCode_Feasibility_3.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </html>
   
 ---
 ###Feasability Presentation V2
 
 <html markdown>
-<iframe src="/cuecode-website/pdf/CueCode_Feasibility_2.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="pdf/CueCode_Feasibility_2.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </html>
   
 ---
 ###Feasability Presentation V1
 
 <html markdown>
-<iframe src="/cuecode-website/pdf/CueCode_Feasibility_1.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="pdf/CueCode_Feasibility_1.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </html>
 
 ---
@@ -52,4 +52,4 @@ weeks.
 ##Initial pitch document
 This is the pitch document used when students selected which of their peers'
 project ideas to choose.
-<iframe src="/cuecode-website/pdf/CueCode_JohnHicks.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="pdf/CueCode_JohnHicks.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
