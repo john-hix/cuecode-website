@@ -10,7 +10,7 @@ title: Home
 - :material-book: __[References](./references.md)__
 </div>
 
-Please see our "Presentations" section for an overview of the problem, solution,
+Please see our [Presentations](presentation.md) section for an overview of the problem, solution,
 and major functional componenets of the CueCode system.
 
 The presentation will explain further the simple problem/solution statement below.
