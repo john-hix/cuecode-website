@@ -1,5 +1,6 @@
 site_name: Team RED | CueCode
 site_url: https://john-hix.github.io/cuecode-website/
+use_directory_urls: false
 theme:
   name: material
   logo: img/cuecode-logo.png
@@ -46,6 +47,13 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
+extra_files:
+  - pdf/CueCode_Feasibility_Final.pdf
+  - pdf/CueCode_Feasibility_4.pdf
+  - pdf/CueCode_Feasibility_3.pdf
+  - pdf/CueCode_Feasibility_2.pdf
+  - pdf/CueCode_Feasibility_1.pdf
+  - pdf/CueCode_JohnHicks.pdf
 
 
 
