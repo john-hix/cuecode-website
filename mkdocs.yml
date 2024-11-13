@@ -55,6 +55,12 @@ extra_files:
   - pdf/CueCode_Feasibility_1.pdf
   - pdf/CueCode_JohnHicks.pdf
 
-
+nav:
+  - 'index.md'
+  - Glossary: glossary.md
+  - Presentation: presentation.md
+  - Glossary: references.md
+  - Team: team.md
+  - 'Written Report': written-report.md
 
 
