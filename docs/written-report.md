@@ -23,3 +23,5 @@ The team produced a template which we each individually used to write a one-page
 </html>
 
 ##Freddie Boateng
+<iframe src="pdf/freddie-lab1.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</html>
