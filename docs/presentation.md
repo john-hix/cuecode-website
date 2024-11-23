@@ -11,6 +11,16 @@ CueCode idea, starting with the most recent work at the top.
 
 ## Design
 
+#### Design final (work-in-progress)
+<html markdown>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9E3VclyFyCWMX7x5O33q955h6JcL5uzN3zFpfhdytIPnL5a53VVCTkQDzrJMBFdEn6v1DVNl4Vco9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</html>
+
+#### Design iteration 4
+<html markdown>
+<iframe src="pdf/CueCode_Design_4.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</html>
+
 #### Design iteration 1
 <html markdown>
 <iframe src="pdf/CueCode_Design_1.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
