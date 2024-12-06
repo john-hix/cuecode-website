@@ -9,11 +9,20 @@ CueCode idea, starting with the most recent work at the top.
 
 ---
 
+## Prototype (For class starting Jan 2025)
+
+#### Iteration 1 (work-in-progress)
+
+<html markdown>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHErRNCOBIi7eDoi-iY06D4LJ-Mf5zLmZZ8vQO2oap3yJs7b-D9txYRi7pzO72m8qvk4nKg43mR3tZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</html>
+
 ## Design
 
-#### Design final (work-in-progress)
+#### Design final
 <html markdown>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9E3VclyFyCWMX7x5O33q955h6JcL5uzN3zFpfhdytIPnL5a53VVCTkQDzrJMBFdEn6v1DVNl4Vco9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<html markdown>
+<iframe src="pdf/CueCode_Design_Final.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </html>
 
 #### Design iteration 4
