@@ -9,18 +9,29 @@ CueCode idea, starting with the most recent work at the top.
 
 ---
 
-## Prototype (For class starting Jan 2025)
+## Prototype
 
-#### Iteration 1 (work-in-progress)
+#### Prototype Presentation 1
+
+_December 2024_
+
+This iteration included an effort to further limit the scope
+of the project in order to focus on the elements that are unique to CueCode.
+
+The updated slide deck directly below shows where we eliminated and/or planned to
+eliminate features from the prototype. We may not be able to remove the asynchonous
+messaging component, depending on the answers to a few open questions we have about
+the infrastructure.
 
 <html markdown>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHErRNCOBIi7eDoi-iY06D4LJ-Mf5zLmZZ8vQO2oap3yJs7b-D9txYRi7pzO72m8qvk4nKg43mR3tZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="pdf/CueCode _Prototype_1.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </html>
+
+<a href="https://docs.google.com/presentation/d/1dpH7MbrCzOMy8j-xMQ2i7ONqneBK3jC3eVCx3xFcEZk/edit?usp=sharing" target="_blank">Link to Google Slides version here</a>.
 
 ## Design
 
 #### Design final
-<html markdown>
 <html markdown>
 <iframe src="pdf/CueCode_Design_Final.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </html>
