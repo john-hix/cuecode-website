@@ -20,15 +20,21 @@ The presentation will explain further the simple problem/solution statement belo
   
 ## Problem
 
-End-users need to enter data and trigger actions in systems via Web APIs, using
-only natural lanaguage.
+![CueCode](img/cuecode-problem-graphic.png)
 
-There's not an abstracted framework for developers
-to create those features using existing LLM technology.
-  
+End-users need to enter data and trigger actions in systems via Web APIs, using
+only natural lanaguage. But:
+
+* There's not an abstracted framework for developers
+to create those features using existing Large Language Model (LLM) technology.
+* Existing approaches leave too much up to the LLM, dramatically increasing risk.
+This prevents many organizations and software systems from adopting LLM technology.
+
 ---
   
 ## Solution
+
+![CueCode](img/cuecode-solution-graphic.png)
 
 CueCode makes it easy to turn natural language into Web API calls.
 Developers may leverage this capability in a number of ways, many of which
