@@ -1,6 +1,6 @@
 # Glossary & Definitions
 
-**Authors:** Freddie Boateng, [Teammate Names]
+**Authors:** Freddie Boateng, [John Hicks, Kobe Franseen, Chase Wallace, Diya Patel, Andrew Bausas]
 
 - **API (Application Programming Interface):** A set of rules and protocols that allow different software applications to communicate.
 - **LLM (Large Language Model):** AI models trained on large datasets to understand and generate human language.
