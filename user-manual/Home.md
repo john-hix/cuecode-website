@@ -10,4 +10,5 @@ Welcome to the CueCode User Manual. CueCode is a platform that enables users esp
 - [Processes](Processes.md)
 - [Interfaces](Interfaces.md)
 - [Tasks](Tasks.md)
+- [Prototype Overview](./Prototype-Overview.md)
 
