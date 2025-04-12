@@ -1,6 +1,6 @@
 # Interfaces
 
-**Authors:** Freddie Boateng, [John Hicks, Kobe Franseen, Chase Wallace, Diya Patel, Andrew Bausas]
+**Authors:** Freddie Boateng, John Hicks, Kobe Franseen, Chase Wallace, Diya Patel, Andrew Bausas
 
 CueCode has several key interfaces:
 

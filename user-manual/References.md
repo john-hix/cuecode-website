@@ -1,6 +1,6 @@
 # References
 
-**Authors:** Freddie Boateng, [John Hicks, Kobe Franseen, Chase Wallace, Diya Patel, Andrew Bausass]
+**Authors:** Freddie Boateng, John Hicks, Kobe Franseen, Chase Wallace, Diya Patel, Andrew Bausass
 
 1. CS411W Team Red (2025). CueCode Non-Technical Product Overview.
 2. Lorica, B. (2024). *Expanding AI Horizons: The Rise of Function Calling in LLMs*. [Gradient Flow](https://gradientflow.com/expanding-ai-horizons-the-rise-of-function-calling-in-llms/)

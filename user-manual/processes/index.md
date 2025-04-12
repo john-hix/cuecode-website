@@ -1,6 +1,6 @@
 # Processes
 
-**Authors:** Freddie Boateng, [John Hicks, Kobe Franseen, Chase Wallace, Diya Patel, Andrew Bausass]
+**Authors:** Freddie Boateng, John Hicks, Kobe Franseen, Chase Wallace, Diya Patel, Andrew Bausass
 
 This section outlines the key workflows users will engage with when using CueCode:
 

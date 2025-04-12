@@ -1,6 +1,6 @@
 # Tasks
 
-**Authors:** Freddie Boateng, [John Hicks, Kobe Franseen, Chase Wallace, Diya Patel, Andrew Bausas]
+**Authors:** Freddie Boateng, John Hicks, Kobe Franseen, Chase Wallace, Diya Patel, Andrew Bausas
 
 This section outlines core tasks users can perform within CueCode:
 
